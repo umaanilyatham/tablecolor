@@ -1,0 +1,46 @@
+tr{
+	font-family:'Times New Roman',New Roman;Times,serif
+}
+*{
+	background-color:black;
+}
+table,th,td{
+     border-style:solid;
+     border-collapse:collapse;
+ }
+ .t{
+ 	color:green;
+ }
+ .j{
+ 	color:pink;
+ }
+ .m{
+ 	color:brown;
+ }
+ .o{
+ 	color:skyblue;
+ }
+ .p{
+ 	color:gold;
+ }
+ .r{
+ 	color:purple;
+}
+.k{
+	color:orange;
+}
+.d{
+	color:violet;
+}
+.e{
+	color:indigo;
+}
+.f{
+	color:silver;
+}
+.h{
+	color:red;
+}
+table{
+      margin-left: 300px;
+}
